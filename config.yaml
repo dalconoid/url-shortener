@@ -1,0 +1,9 @@
+SERVER:
+  PORT: 8085
+DB:
+  HOST: localhost
+  USER: postgres
+  PASSWORD: postgres
+  NAME: urls
+  PORT: 5432
+  SSL: disable
