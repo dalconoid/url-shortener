@@ -1,7 +1,7 @@
 SERVER:
   PORT: 8085
 DB:
-  HOST: localhost
+  HOST: pg_url
   USER: postgres
   PASSWORD: postgres
   NAME: urls
